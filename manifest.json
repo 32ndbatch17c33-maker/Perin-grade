@@ -1,0 +1,24 @@
+{
+  "name": "PERIN Grade Analyzer",
+  "short_name": "PERIN",
+  "description": "Track, calculate, and analyze your academic grades locally.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#120e2e",
+  "theme_color": "#120e2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
